@@ -1,0 +1,7 @@
+# Ignore build files
+**/bin
+**/obj
+publish
+Releases
+.idea
+.vs
